@@ -1,0 +1,340 @@
+{
+  "name": "Fozayel Ibn Ayaz",
+  "title": "Infrastructure Strategist · Data Analyst · Front-End Focused Developer · Digital Marketing & Operations Support",
+  "headline": "I build stable systems, clear dashboards, SEO-ready web pages, marketing workflows, support operations, and fast interfaces that feel precise from the first click.",
+  "location": "Dhaka, Bangladesh",
+  "phone": "+8801726611455",
+  "email": "ibnayaz789@gmail.com",
+  "github": "https://github.com/fozayelibnayaz",
+  "linkedin": "https://bd.linkedin.com/in/fozayel-ibn-ayaz",
+  "summary": "I work across infrastructure, web development, analytics, marketing, automation, and virtual operations. My strength is connecting dependable systems with practical business outcomes: secure IT operations, fast WordPress/WooCommerce builds, SEO and content support, social/email campaigns, customer support workflows, marketplace VA tasks, real-time dashboards, and machine-learning workflows that turn raw numbers into decisions.",
+  "heroPillars": [
+    "Front-end first delivery",
+    "Infrastructure-minded engineering",
+    "Data-backed decisions",
+    "SEO and digital marketing",
+    "VA, support, and automation"
+  ],
+  "experience": [
+    {
+      "role": "WordPress Developer",
+      "company": "Ekomedia",
+      "period": "Dec 2025 — Present",
+      "summary": "Converting custom HTML into scalable WordPress systems with technical SEO, clean content architecture, and performance-led front-end delivery.",
+      "points": [
+        "Built flexible WordPress architectures using ACF, Custom Post Types, and reusable content structures.",
+        "Implemented JSON-LD schema, semantic HTML5, and technical SEO improvements for competitive service pages.",
+        "Optimized Core Web Vitals with image compression, lazy loading, CSS refinement, and mobile-first QA.",
+        "Managed cross-browser testing, Rich Results validation, release checks, and deployment quality control."
+      ]
+    },
+    {
+      "role": "IT Administrator",
+      "company": "Cafe Lavista",
+      "period": "Jul 2024 — Present",
+      "summary": "Managing company technology, platform stability, access control, and WordPress delivery for business-critical web properties.",
+      "points": [
+        "Delivered three priority WordPress properties from requirements to production deployment.",
+        "Strengthened website security, performance, reliability, and content delivery workflows.",
+        "Resolved complex hardware, software, and network issues for remote teams.",
+        "Managed user credentials, email provisioning, access control, and new technical solutions."
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "company": "Eagle 3D Streaming",
+      "period": "Jul 2023 — Present",
+      "summary": "Building reporting systems and dashboards that make marketing, product, and revenue performance easier to read and act on.",
+      "points": [
+        "Tracked platform performance with GA4, Google Tag Manager, YouTube Analytics, and internal dashboards.",
+        "Built Looker Studio dashboards for subscriber growth, conversion rates, user minutes, retention, and revenue trends.",
+        "Maintained event tracking, custom triggers, and conversion tags for accurate behavioral data.",
+        "Translated complex analytics into clear actions for business and marketing teams."
+      ]
+    },
+    {
+      "role": "IT Support Engineer",
+      "company": "n2sys Technology",
+      "period": "Jan 2023 — Jun 2023",
+      "summary": "Supported infrastructure reliability through hardware, software, network, and application troubleshooting.",
+      "points": [
+        "Installed and configured hardware, software, networks, and business applications.",
+        "Diagnosed system and network issues and communicated clear solutions to staff and clients.",
+        "Monitored systems for uptime, performance, and continuity.",
+        "Documented fixes and supported new application deployment."
+      ]
+    },
+    {
+      "role": "Coding Teacher",
+      "company": "Codingal",
+      "period": "Aug 2022 — Dec 2022",
+      "summary": "Taught programming foundations to young learners while tailoring lessons to individual goals.",
+      "points": [
+        "Taught coding and computer applications to 4th and 5th-grade students.",
+        "Created customized learning paths and provided one-to-one support.",
+        "Tracked student progress and supported course enrollment growth."
+      ]
+    },
+    {
+      "role": "Associate",
+      "company": "Quantanite",
+      "period": "May 2022 — Jul 2022",
+      "summary": "Handled data processing work with accuracy, validation, and operational discipline.",
+      "points": [
+        "Executed data-entry and data-processing tasks with quality control.",
+        "Validated and manipulated data to protect accuracy and integrity.",
+        "Supported workflow improvements and operational efficiency."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "North South University",
+      "degree": "BSc in Computer Science and Engineering",
+      "period": "2017 — 2022"
+    },
+    {
+      "school": "Ideal College, Dhanmondi",
+      "degree": "Higher Secondary Certificate",
+      "period": "2014 — 2016"
+    },
+    {
+      "school": "Dhanmondi Govt. Boys’ High School",
+      "degree": "Secondary School Certificate",
+      "period": "2004 — 2014"
+    }
+  ],
+  "skillGroups": [
+    {
+      "name": "Languages",
+      "skills": [
+        "Java",
+        "PHP",
+        "SQL",
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "C++",
+        "C",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Frontend & CMS",
+      "skills": [
+        "Next.js",
+        "React",
+        "WordPress",
+        "WooCommerce",
+        "Shopify",
+        "ACF",
+        "Custom Post Types",
+        "Semantic HTML",
+        "Core Web Vitals",
+        "Figma"
+      ]
+    },
+    {
+      "name": "Backend & Data",
+      "skills": [
+        "Node.js",
+        "Firebase",
+        "MySQL",
+        "MariaDB",
+        "Spark",
+        "Hadoop",
+        "Hive",
+        "Looker Studio",
+        "GA4",
+        "Google Tag Manager"
+      ]
+    },
+    {
+      "name": "Digital Marketing",
+      "skills": [
+        "SEO",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Content Writing",
+        "Lead Generation",
+        "Campaign Research",
+        "Funnel Planning",
+        "On-page Optimization"
+      ]
+    },
+    {
+      "name": "VA & Marketplace Support",
+      "skills": [
+        "Data Entry",
+        "Virtual Assistant Tasks",
+        "Amazon VA",
+        "Shopify Store Support",
+        "Product Listings",
+        "Spreadsheet Cleanup",
+        "Admin Reporting",
+        "Research"
+      ]
+    },
+    {
+      "name": "Support & Operations",
+      "skills": [
+        "Customer Support",
+        "IT Support",
+        "Ticket Handling",
+        "User Provisioning",
+        "Network Troubleshooting",
+        "Hardware Support",
+        "Documentation",
+        "Access Control"
+      ]
+    },
+    {
+      "name": "Automation & QA",
+      "skills": [
+        "Playwright",
+        "Browser Automation",
+        "UI Checks",
+        "Form-flow Validation",
+        "Repeatable Testing Scripts",
+        "Deployment QA"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "skills": [
+        "ARIMA",
+        "Prophet",
+        "LSTM",
+        "Forecasting",
+        "Classification",
+        "Rolling Window Evaluation",
+        "RMSE",
+        "MAPE"
+      ]
+    },
+    {
+      "name": "Cloud, Systems & Ops",
+      "skills": [
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "System Security",
+        "Network Troubleshooting",
+        "Access Provisioning",
+        "Hardware Support",
+        "HubSpot"
+      ]
+    },
+    {
+      "name": "Interactive Tech",
+      "skills": [
+        "Unreal Engine",
+        "Pixel Streaming",
+        "Eagle 3D Streaming",
+        "Real-time Control",
+        "Simulation Deployment",
+        "Content Workflow Support"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Real-Time Product Management Dashboard",
+      "type": "Full-stack dashboard",
+      "summary": "A live product-management interface built with Next.js, TypeScript, Node.js, and Firebase. Product updates appear instantly, while the dashboard tracks active and inactive inventory through real-time visual feedback.",
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Firebase",
+        "Realtime CRUD",
+        "Charts"
+      ],
+      "link": "https://github.com/fozayelibnayaz/Real-Time-Product-Management-Dashboard"
+    },
+    {
+      "name": "Works Lover E-commerce Platform",
+      "type": "Client e-commerce build",
+      "summary": "A full WooCommerce delivery covering setup, custom site design, deployment, security, performance tuning, product structure, and storefront management for fashion and accessories categories.",
+      "stack": [
+        "WordPress",
+        "WooCommerce",
+        "Performance",
+        "Security",
+        "Product Taxonomy",
+        "Deployment"
+      ],
+      "link": ""
+    },
+    {
+      "name": "Time-Series Forecasting: Stock Prices",
+      "type": "Machine-learning forecasting",
+      "summary": "A forecasting project comparing ARIMA, Prophet, and LSTM on historical stock-price data with rolling-window evaluation and performance metrics including RMSE and MAPE.",
+      "stack": [
+        "Python",
+        "ARIMA",
+        "Prophet",
+        "LSTM",
+        "Forecasting",
+        "Model Evaluation"
+      ],
+      "link": "https://github.com/fozayelibnayaz/Time-Series-Forecasting---Stock-Prices"
+    },
+    {
+      "name": "Smart Health Consulting System",
+      "type": "Diagnostic support system",
+      "summary": "A health-consulting application designed to offer preliminary guidance from patient-reported symptoms and support a faster first layer of decision-making.",
+      "stack": [
+        "PHP",
+        "Healthcare Logic",
+        "Symptom Flow",
+        "Web App"
+      ],
+      "link": "https://github.com/fozayelibnayaz/Smart-Health-Consulting-System"
+    },
+    {
+      "name": "Unreal Engine Pixel Streaming Deployment",
+      "type": "Interactive simulation",
+      "summary": "An end-to-end vehicle simulation delivered with Unreal Engine Pixel Streaming and E3DS deployment, including real-time directional controls and browser-based access.",
+      "stack": [
+        "Unreal Engine",
+        "Pixel Streaming",
+        "E3DS",
+        "Real-time Input",
+        "Simulation"
+      ],
+      "link": ""
+    },
+    {
+      "name": "Bus Ticket Counter System",
+      "type": "Java application",
+      "summary": "A Java-based ticket-counter system that models the business logic of ticketing operations, including transaction flow and counter-level workflow.",
+      "stack": [
+        "Java",
+        "OOP",
+        "Ticketing Logic",
+        "Console/App Workflow"
+      ],
+      "link": "https://github.com/fozayelibnayaz/Bus-Ticket-Counter"
+    }
+  ],
+  "languages": [
+    "English — IELTS 6.5 / B2",
+    "Bengali — Native"
+  ],
+  "services": [
+    "Digital marketing",
+    "Social media marketing",
+    "SEO",
+    "Email marketing",
+    "Content writing",
+    "Lead generation",
+    "Shopify/Amazon VA",
+    "Data entry virtual assistance",
+    "Customer support",
+    "IT support",
+    "Unreal Engine support",
+    "Playwright automation"
+  ]
+}

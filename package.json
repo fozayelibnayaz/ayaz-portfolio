@@ -1,0 +1,13 @@
+{
+  "name": "fozayel-ibn-ayaz-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static portfolio with Vercel/Netlify CV backend from Google Drive.",
+  "scripts": {
+    "dev": "python3 -m http.server 8080",
+    "check": "node --check app.js && node --check service-worker.js && node --check api/cv.js && node --check netlify/functions/cv.js && node --check api/_drive-cv.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

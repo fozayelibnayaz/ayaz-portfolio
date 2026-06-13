@@ -1,0 +1,5 @@
+/api/cv /.netlify/functions/cv 200
+/server/* / 404
+/netlify/* / 404
+/api/*.js / 404
+/README.md / 404
