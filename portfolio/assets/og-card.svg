@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#32f5c8"/>
+      <stop offset="0.5" stop-color="#d3ff71"/>
+      <stop offset="1" stop-color="#b76cff"/>
+    </linearGradient>
+    <radialGradient id="r" cx="50%" cy="50%" r="70%">
+      <stop stop-color="#32f5c8" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#061018" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#061018"/>
+  <circle cx="980" cy="120" r="330" fill="url(#r)"/>
+  <circle cx="160" cy="560" r="360" fill="#b76cff" opacity="0.14"/>
+  <g opacity="0.14" stroke="#fff">
+    <path d="M0 96h1200M0 192h1200M0 288h1200M0 384h1200M0 480h1200M0 576h1200"/>
+    <path d="M96 0v630M192 0v630M288 0v630M384 0v630M480 0v630M576 0v630M672 0v630M768 0v630M864 0v630M960 0v630M1056 0v630M1152 0v630"/>
+  </g>
+  <rect x="70" y="70" width="1060" height="490" rx="42" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.18)"/>
+  <text x="108" y="160" font-family="Inter, system-ui, sans-serif" fill="#32f5c8" font-size="28" font-weight="800" letter-spacing="7">PORTFOLIO OS</text>
+  <text x="108" y="280" font-family="Inter, system-ui, sans-serif" fill="#f4fbff" font-size="88" font-weight="900" letter-spacing="-7">Fozayel Ibn Ayaz</text>
+  <text x="112" y="350" font-family="Inter, system-ui, sans-serif" fill="#a9bdc9" font-size="34">Infrastructure · Data · Front-End · WordPress</text>
+  <rect x="108" y="410" width="350" height="60" rx="30" fill="url(#g)"/>
+  <text x="136" y="450" font-family="Inter, system-ui, sans-serif" fill="#061018" font-size="25" font-weight="900">Clear interfaces. Stable systems.</text>
+  <circle cx="945" cy="330" r="118" fill="none" stroke="url(#g)" stroke-width="14"/>
+  <text x="866" y="355" font-family="Inter, system-ui, sans-serif" fill="url(#g)" font-size="62" font-weight="900" letter-spacing="-5">FIA</text>
+</svg>

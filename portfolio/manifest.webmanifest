@@ -1,0 +1,17 @@
+{
+  "name": "Fozayel Ibn Ayaz Portfolio",
+  "short_name": "Fozayel",
+  "description": "Portfolio of Fozayel Ibn Ayaz — Infrastructure, Data, WordPress, and Front-End focused full-stack development.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#061018",
+  "theme_color": "#32f5c8",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

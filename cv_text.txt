@@ -1,0 +1,127 @@
+FOZAYEL IBN AYAZ /ne+8801726611455
+ Dhaka, Bangladesh
+ ibnayaz789@gmail.com
+/gtbhttps:/ /github.com/fozayelibnayaz
+SUMMARY
+I’m an Infrastructure Strategist focused on keeping sys-
+tems stable, secure, and ready to grow. I manage every-
+thing from network security and IT operations to build-
+ing fast, reliable WordPress and WooCommerce sites.
+Alongside that, I dig into data—analyzing trends, build-
+ing dashboards, and turning numbers into useful in-
+sights. I code actively in Java, PHP, Next.js, Node.js, and
+Python/ML to solve technical challenges and tie solid
+systems and smart data directly to business results.
+SKILLS
+Languages: Java, PHP, SQL, Python, JavaScript, C++, C,
+HTML, CSS
+T echnologies: WordPress, WooCommerce, Unreal En-
+gine (Pixel Streaming), Next.js, Node.js,
+MySQL / MariaDB, GCP (Google Cloud
+Platform), Docker, Kubernetes, Figma
+(UI/UX Design), Spark, Hadoop, Hive,
+Prophet, ARIMA, LSTM, Google Analyt-
+ics, HubSpot, Network/Hardware T rou-
+bleshooting, User/Access Provisioning,
+System Security.
+PROJECTS
+1 Real Time Product Management Dashboard Project Link
+A high-performance, real-time product management dashboard engineered with a modern full-stack
+architecture: Next.js (using TypeScript) on the frontend, powered by Node.js and Firebase for backend
+operations. This application features live data synchronization, enabling instantaneous updates (CRUD
+operations) on the dashboard whenever product data changes. Key functionality includes a real-time pie
+chart visualization for immediately tracking active versus inactive product inventory.
+2 Works Lover E-commerce Platform Project Link
+A full-lifecycle development project for the Works Lover e-commerce website, built on WordPress and
+the WooCommerce framework. I handled the entire process for the client, from initial setup and custom
+site design through deployment to a live production environment. The work included comprehensive
+platform management, securing the site, optimizing performance, and managing the product inventory
+and categorization (Men, Women, Accessories) to ensure a robust and feature-rich digital storefront.
+3 Time-Series Forecasting: Stock Prices Project Link
+This project is a comprehensive machine learning task focused on forecasting future stock prices using a
+public dataset of historical closing prices. I developed and compared both traditional statistical models
+(ARIMA) and modern deep learning/ML models (LSTM and Prophet). The project used rolling window
+evaluation for rigorous accuracy measurement and culminated in a full performance comparison using
+metrics like RMSE and MAPE.
+4 Smart Health Consulting System Project Link
+This project is a Smart Health Consulting System designed to offer preliminary diagnostic assistance
+based on patient-reported symptoms.
+5 Unreal Engine Pixel Streaming Deployment (Interactive Vehicle Simulation) Project Link
+This project involved managing the end-to-end development and deployment of a fully interactive Unreal
+Engine (UE) vehicle simulation. The work included creating the application from scratch, implementing
+input handling for real-time control (up, down, left, right), and configuring the Pixel Streaming plugin within
+the Unreal Editor. The final application was packaged and deployed to the Eagle 3D Streaming (E3DS)
+platform using the proprietary E3DS automation tool, making the high-fidelity UE simulation accessible
+via a single link.
+6 Bus Ticket Counter Project Link
+This project is a comprehensive Bus Ticket Counter System developed entirely in Java. It serves as a
+simulation or application for managing the core business logic of a ticketing operation.
+EDUCATION
+2017 - 2022 North South University University
+BSc. in Computer Science and Engineering
+2014 - 2016 Ideal College, Dhanmondi College
+Higher Secondary Certificate
+2004 - 2014 Dhanmondi Govt. Boys’s High School School
+Secondary School Certificate
+EXPERIENCE
+12/2025 – Present WordPress Developer Ekomedia
+• Develop high-performance SEO properties by converting custom HTML templates into scalable Word-
+Press architectures, utilizing ACF and Custom Post Types to build flexible, data-driven content structures.
+• Execute advanced technical SEO integration, specifically engineering JSON-LD Schema Markup and se-
+mantic HTML5 hierarchies to maximize visibility and search engine authority for competitive service-based
+industries.
+• Optimize site performance and Core Web Vitals, implementing sophisticated front-end techniques like
+image compression, lazy loading, and CSS optimization to ensure sub-second load times and mobile-first
+compliance.
+• Oversee end-to-end quality assurance and deployment, conducting rigorous cross-browser testing and
+Rich Results validation to ensure every deliverable meets strict technical and design specifications.
+7/2024 – Present IT Administrator Cafe Lavista
+• Architected and deployed three high-priority WordPress web properties for the company director, person-
+ally managing the full project development lifecycle from initial requirements gathering to final production
+deployment.
+• Engineer platform stability and reliability for the company’s main website, continuously implementing
+security hardening, performance optimization techniques, and content delivery best practices.
+• Provide advanced Tier 2/3 technical support and troubleshooting for remote teams, resolving complex
+hardware, software, and network configuration issues to guarantee seamless business continuity.
+• Spearhead all system-level IT administration, including implementing new technical solutions to enhance
+team productivity and managing access control (user credentials, email, and account provisioning) across
+all environments.
+7/2023 – Present Data Analyst Eagle 3D Streaming
+• T rack, analyze, and report user and business data across all major platforms using Google Analytics (GA4),
+Google T ag Manager, You T ube Analytics, and platform-specific dashboards to support data-driven deci-
+sions.
+• Build clean, interactive Looker Studio dashboards that visualize key business and marketing KPIs — in-
+cluding subscriber growth, conversion rates, user minutes, retention, and revenue trends — for real-time
+monitoring by leadership and marketing teams.
+• Set up and maintain full event tracking, custom triggers, and conversion tags through Google T ag Manager
+to capture accurate user behavior across web, streaming, and You T ube channels.
+• Champion a data-driven culture across business and marketing teams by translating complex data into
+clear, actionable insights.
+1/2023 – 6/2023 IT Support Engineer n2sys T echnology
+• Installed and configured computer hardware, software, networks, and applications to meet business
+needs.
+• Provided technical support by responding to staff and client inquiries, diagnosing system and network
+problems, and communicating effective solutions.
+• Maintained and monitored all systems and networks to ensure continuous operation and peak perfor-
+mance.
+• T roubleshot and resolved software and hardware faults, minimizing downtime and improving productivity.
+• Supported the successful deployment of new applications and documented solutions for future refer-
+ence.
+8/2022 – 12/2022 Coding T eacher Codingal
+• T aught coding and computer applications to 4th and 5th-grade students using the organization’s curricu-
+lum.
+• Designed customized learning paths for students, helping them achieve their specific educational goals.
+• Monitored student progress and provided one-on-one assistance to ensure a positive and effective learn-
+ing experience.
+• Promoted and sold courses as a sales executive, driving enrollment and contributing to the organization’s
+growth.
+5/2022 – 7/2022 Associate Quantanite
+• Executed data entry tasks as part of a larger data processing system, ensuring timely delivery and quality
+control.
+• Cooperated with team members to ensure seamless workflow and maintain high-quality data standards.
+• Performed data validation and manipulation to ensure the accuracy and integrity of all data.
+• Contributed to the evaluation and implementation of new data processing technologies to improve oper-
+ational efficiency.
+• Managed data processing systems to support and streamline key business workflows.
+LANGUAGES
+English - (IEL TS 6.5)/B2, Bengali - native
