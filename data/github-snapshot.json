@@ -1,0 +1,605 @@
+{
+  "generated_at": "2026-06-14T07:56:53.027Z",
+  "profile": {
+    "login": "fozayelibnayaz",
+    "name": "Fozayel Ibn Ayaz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/66134349?v=4",
+    "html_url": "https://github.com/fozayelibnayaz",
+    "blog": "https://www.linkedin.com/in/fozayel-ibn-ayaz/",
+    "location": "Bangladesh",
+    "bio": "Focused on Full-Stack Web Development and Machine Learning, actively building my career around these two fields.",
+    "public_repos": 31,
+    "followers": 2,
+    "created_at": "2020-05-29T16:54:20Z",
+    "updated_at": "2026-06-13T16:48:56Z"
+  },
+  "repos": [
+    {
+      "name": "image-variator",
+      "full_name": "fozayelibnayaz/image-variator",
+      "html_url": "https://github.com/fozayelibnayaz/image-variator",
+      "description": "Web App",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-06-13T18:19:48Z",
+      "created_at": "2026-06-13T17:17:29Z",
+      "topics": [],
+      "homepage": "https://fozayelibnayaz.github.io/image-variator/image-variant/index.html",
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "JavaScript": 125617,
+        "HTML": 22420,
+        "CSS": 18366
+      }
+    },
+    {
+      "name": "ayaz-portfolio",
+      "full_name": "fozayelibnayaz/ayaz-portfolio",
+      "html_url": "https://github.com/fozayelibnayaz/ayaz-portfolio",
+      "description": null,
+      "language": "CSS",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-06-13T16:57:45Z",
+      "created_at": "2026-06-13T16:49:28Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "CSS": 111334,
+        "HTML": 80062,
+        "JavaScript": 77154
+      }
+    },
+    {
+      "name": "eagle3d-kpi-automation",
+      "full_name": "fozayelibnayaz/eagle3d-kpi-automation",
+      "html_url": "https://github.com/fozayelibnayaz/eagle3d-kpi-automation",
+      "description": null,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-06-13T15:27:30Z",
+      "created_at": "2026-05-11T18:23:36Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "Python": 977780,
+        "Shell": 15349
+      }
+    },
+    {
+      "name": "AI-YouTube-Command-Center",
+      "full_name": "fozayelibnayaz/AI-YouTube-Command-Center",
+      "html_url": "https://github.com/fozayelibnayaz/AI-YouTube-Command-Center",
+      "description": null,
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-05-26T08:48:20Z",
+      "created_at": "2026-05-21T14:47:40Z",
+      "topics": [],
+      "homepage": "https://youtube-command-center-eight.vercel.app",
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "TypeScript": 302282,
+        "JavaScript": 8611,
+        "CSS": 1537
+      }
+    },
+    {
+      "name": "Smart-Health-Consulting-System",
+      "full_name": "fozayelibnayaz/Smart-Health-Consulting-System",
+      "html_url": "https://github.com/fozayelibnayaz/Smart-Health-Consulting-System",
+      "description": null,
+      "language": "PHP",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-05-04T14:33:07Z",
+      "created_at": "2020-11-23T08:46:17Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "PHP": 90547
+      }
+    },
+    {
+      "name": "EuroEdge-Admission-Group",
+      "full_name": "fozayelibnayaz/EuroEdge-Admission-Group",
+      "html_url": "https://github.com/fozayelibnayaz/EuroEdge-Admission-Group",
+      "description": "This is a project on a student consultancy website in the UK.",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-04-07T14:47:57Z",
+      "created_at": "2026-04-07T14:42:01Z",
+      "topics": [],
+      "homepage": "https://euroedgeadmissiongroup.com/",
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "HTML": 851544,
+        "CSS": 83156,
+        "JavaScript": 42794
+      }
+    },
+    {
+      "name": "growth-intelligence-engine",
+      "full_name": "fozayelibnayaz/growth-intelligence-engine",
+      "html_url": "https://github.com/fozayelibnayaz/growth-intelligence-engine",
+      "description": "growth-intelligence-engine",
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-02-25T10:32:10Z",
+      "created_at": "2026-02-25T10:21:40Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "Python": 109317095,
+        "C++": 5290624,
+        "Cython": 4473310,
+        "C": 863582,
+        "Fortran": 40333,
+        "Meson": 37823,
+        "JavaScript": 17367,
+        "CSS": 14282,
+        "PowerShell": 9033,
+        "Go Template": 8359,
+        "Shell": 3171,
+        "CMake": 2547,
+        "Jinja": 1570,
+        "HTML": 1547,
+        "Smarty": 127
+      }
+    },
+    {
+      "name": "lcm",
+      "full_name": "fozayelibnayaz/lcm",
+      "html_url": "https://github.com/fozayelibnayaz/lcm",
+      "description": null,
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-02-02T09:46:03Z",
+      "created_at": "2026-01-31T16:37:08Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "JavaScript": 785
+      }
+    },
+    {
+      "name": "MediPredict",
+      "full_name": "fozayelibnayaz/MediPredict",
+      "html_url": "https://github.com/fozayelibnayaz/MediPredict",
+      "description": null,
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-01-31T16:54:49Z",
+      "created_at": "2025-12-25T16:33:14Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "JavaScript": 22958
+      }
+    },
+    {
+      "name": "Real-Time-Product-Management-Dashboard",
+      "full_name": "fozayelibnayaz/Real-Time-Product-Management-Dashboard",
+      "html_url": "https://github.com/fozayelibnayaz/Real-Time-Product-Management-Dashboard",
+      "description": "product-eagle-frontend",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2025-10-25T08:06:30Z",
+      "created_at": "2025-10-21T17:36:57Z",
+      "topics": [],
+      "homepage": "https://product-eagle-frontend.vercel.app",
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "TypeScript": 26154,
+        "CSS": 10525,
+        "JavaScript": 1125
+      }
+    },
+    {
+      "name": "eagle-products-backend",
+      "full_name": "fozayelibnayaz/eagle-products-backend",
+      "html_url": "https://github.com/fozayelibnayaz/eagle-products-backend",
+      "description": "eagle-products-backend",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2025-10-24T09:45:15Z",
+      "created_at": "2025-10-21T18:11:16Z",
+      "topics": [],
+      "homepage": "https://eagle-products-backend.vercel.app",
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "TypeScript": 5208,
+        "Dockerfile": 443
+      }
+    },
+    {
+      "name": "Time-Series-Forecasting---Stock-Prices",
+      "full_name": "fozayelibnayaz/Time-Series-Forecasting---Stock-Prices",
+      "html_url": "https://github.com/fozayelibnayaz/Time-Series-Forecasting---Stock-Prices",
+      "description": "Time Series Forecasting - Stock Prices",
+      "language": "Jupyter Notebook",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2025-10-23T15:07:50Z",
+      "created_at": "2025-10-23T14:44:22Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "Jupyter Notebook": 357673
+      }
+    },
+    {
+      "name": "bonus-css",
+      "full_name": "fozayelibnayaz/bonus-css",
+      "html_url": "https://github.com/fozayelibnayaz/bonus-css",
+      "description": null,
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2025-08-05T04:40:26Z",
+      "created_at": "2025-08-05T04:37:23Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "HTML": 12863
+      }
+    },
+    {
+      "name": "personal-website",
+      "full_name": "fozayelibnayaz/personal-website",
+      "html_url": "https://github.com/fozayelibnayaz/personal-website",
+      "description": null,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2025-07-22T05:51:41Z",
+      "created_at": "2025-07-22T05:51:36Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {}
+    },
+    {
+      "name": "web-portfolio",
+      "full_name": "fozayelibnayaz/web-portfolio",
+      "html_url": "https://github.com/fozayelibnayaz/web-portfolio",
+      "description": null,
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2025-07-21T05:50:41Z",
+      "created_at": "2025-07-11T05:53:30Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "HTML": 3187,
+        "CSS": 1398
+      }
+    },
+    {
+      "name": "second-website",
+      "full_name": "fozayelibnayaz/second-website",
+      "html_url": "https://github.com/fozayelibnayaz/second-website",
+      "description": "second",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2025-07-11T05:23:30Z",
+      "created_at": "2025-07-10T05:27:41Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "HTML": 324,
+        "CSS": 41
+      }
+    },
+    {
+      "name": "first-website",
+      "full_name": "fozayelibnayaz/first-website",
+      "html_url": "https://github.com/fozayelibnayaz/first-website",
+      "description": null,
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2025-07-10T05:13:36Z",
+      "created_at": "2025-07-08T06:40:47Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "HTML": 8441,
+        "CSS": 292
+      }
+    },
+    {
+      "name": "Autism-Detection-Using-Machine-Learning",
+      "full_name": "fozayelibnayaz/Autism-Detection-Using-Machine-Learning",
+      "html_url": "https://github.com/fozayelibnayaz/Autism-Detection-Using-Machine-Learning",
+      "description": null,
+      "language": "Jupyter Notebook",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "updated_at": "2023-12-27T16:35:39Z",
+      "created_at": "2021-11-26T10:49:36Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "Jupyter Notebook": 519906
+      }
+    },
+    {
+      "name": "django-coding-test",
+      "full_name": "fozayelibnayaz/django-coding-test",
+      "html_url": "https://github.com/fozayelibnayaz/django-coding-test",
+      "description": null,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2022-12-07T12:37:15Z",
+      "created_at": "2022-12-07T12:37:15Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {}
+    },
+    {
+      "name": "react-project",
+      "full_name": "fozayelibnayaz/react-project",
+      "html_url": "https://github.com/fozayelibnayaz/react-project",
+      "description": null,
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2022-11-23T16:09:31Z",
+      "created_at": "2022-11-23T15:41:29Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "JavaScript": 5269,
+        "HTML": 1721,
+        "CSS": 930
+      }
+    },
+    {
+      "name": "test",
+      "full_name": "fozayelibnayaz/test",
+      "html_url": "https://github.com/fozayelibnayaz/test",
+      "description": null,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2022-07-12T15:54:43Z",
+      "created_at": "2022-07-12T15:54:43Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {}
+    },
+    {
+      "name": "Titanic-Survival-Prediction",
+      "full_name": "fozayelibnayaz/Titanic-Survival-Prediction",
+      "html_url": "https://github.com/fozayelibnayaz/Titanic-Survival-Prediction",
+      "description": null,
+      "language": "Jupyter Notebook",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2021-12-12T10:24:00Z",
+      "created_at": "2021-12-12T10:23:15Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "Jupyter Notebook": 408297
+      }
+    },
+    {
+      "name": "Hepatitis-Prediction-Using-Machine-Learning",
+      "full_name": "fozayelibnayaz/Hepatitis-Prediction-Using-Machine-Learning",
+      "html_url": "https://github.com/fozayelibnayaz/Hepatitis-Prediction-Using-Machine-Learning",
+      "description": null,
+      "language": "Jupyter Notebook",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2021-11-27T08:37:03Z",
+      "created_at": "2021-11-27T08:36:21Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "Jupyter Notebook": 361573
+      }
+    },
+    {
+      "name": "Explore-Bangladesh",
+      "full_name": "fozayelibnayaz/Explore-Bangladesh",
+      "html_url": "https://github.com/fozayelibnayaz/Explore-Bangladesh",
+      "description": null,
+      "language": "PHP",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2021-11-26T11:09:43Z",
+      "created_at": "2021-09-03T16:14:22Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "PHP": 88101
+      }
+    },
+    {
+      "name": "Implementation-of-an-Encryption-Table-Using-Microcontroller",
+      "full_name": "fozayelibnayaz/Implementation-of-an-Encryption-Table-Using-Microcontroller",
+      "html_url": "https://github.com/fozayelibnayaz/Implementation-of-an-Encryption-Table-Using-Microcontroller",
+      "description": null,
+      "language": "Makefile",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2021-11-26T11:08:32Z",
+      "created_at": "2021-11-26T11:05:25Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "Makefile": 29181,
+        "C++": 12585,
+        "Assembly": 1190
+      }
+    },
+    {
+      "name": "Monitoring-System-of-Automatic-Water-Levels",
+      "full_name": "fozayelibnayaz/Monitoring-System-of-Automatic-Water-Levels",
+      "html_url": "https://github.com/fozayelibnayaz/Monitoring-System-of-Automatic-Water-Levels",
+      "description": null,
+      "language": "C",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2021-11-26T11:00:27Z",
+      "created_at": "2021-11-26T10:59:45Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "C": 1780
+      }
+    },
+    {
+      "name": "Network-Intrusion-Detection-System-Using-Machine-Learning",
+      "full_name": "fozayelibnayaz/Network-Intrusion-Detection-System-Using-Machine-Learning",
+      "html_url": "https://github.com/fozayelibnayaz/Network-Intrusion-Detection-System-Using-Machine-Learning",
+      "description": null,
+      "language": "Jupyter Notebook",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2021-11-26T10:55:30Z",
+      "created_at": "2021-11-26T10:52:07Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "Jupyter Notebook": 387472
+      }
+    },
+    {
+      "name": "Leukemia-Detection-Using-Machine-Learning",
+      "full_name": "fozayelibnayaz/Leukemia-Detection-Using-Machine-Learning",
+      "html_url": "https://github.com/fozayelibnayaz/Leukemia-Detection-Using-Machine-Learning",
+      "description": "This can diagnose the stage of leukemia",
+      "language": "Jupyter Notebook",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2021-11-26T10:36:15Z",
+      "created_at": "2021-11-26T10:34:35Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "Jupyter Notebook": 859611
+      }
+    },
+    {
+      "name": "Card-Information-Extractor",
+      "full_name": "fozayelibnayaz/Card-Information-Extractor",
+      "html_url": "https://github.com/fozayelibnayaz/Card-Information-Extractor",
+      "description": "This will extract information from cards.",
+      "language": "Jupyter Notebook",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2021-11-26T10:32:01Z",
+      "created_at": "2021-11-26T10:30:06Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "Jupyter Notebook": 21898
+      }
+    },
+    {
+      "name": "Bus-Ticket-Counter",
+      "full_name": "fozayelibnayaz/Bus-Ticket-Counter",
+      "html_url": "https://github.com/fozayelibnayaz/Bus-Ticket-Counter",
+      "description": null,
+      "language": "Java",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2021-09-02T15:40:10Z",
+      "created_at": "2021-09-02T15:37:58Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "Java": 12244
+      }
+    },
+    {
+      "name": "Gadget-Blast",
+      "full_name": "fozayelibnayaz/Gadget-Blast",
+      "html_url": "https://github.com/fozayelibnayaz/Gadget-Blast",
+      "description": null,
+      "language": "PHP",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2020-12-14T07:12:00Z",
+      "created_at": "2020-05-29T17:14:57Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "PHP": 76195,
+        "Hack": 27062,
+        "CSS": 10052
+      }
+    }
+  ]
+}
