@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T07:56:53.027Z",
+  "generated_at": "2026-06-15T09:34:27.980Z",
   "profile": {
     "login": "fozayelibnayaz",
     "name": "Fozayel Ibn Ayaz",
@@ -22,36 +22,16 @@
       "language": "JavaScript",
       "stargazers_count": 0,
       "forks_count": 0,
-      "updated_at": "2026-06-13T18:19:48Z",
+      "updated_at": "2026-06-15T06:42:06Z",
       "created_at": "2026-06-13T17:17:29Z",
       "topics": [],
       "homepage": "https://fozayelibnayaz.github.io/image-variator/image-variant/index.html",
       "fork": false,
       "archived": false,
       "languages_detail": {
-        "JavaScript": 125617,
-        "HTML": 22420,
-        "CSS": 18366
-      }
-    },
-    {
-      "name": "ayaz-portfolio",
-      "full_name": "fozayelibnayaz/ayaz-portfolio",
-      "html_url": "https://github.com/fozayelibnayaz/ayaz-portfolio",
-      "description": null,
-      "language": "CSS",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "updated_at": "2026-06-13T16:57:45Z",
-      "created_at": "2026-06-13T16:49:28Z",
-      "topics": [],
-      "homepage": null,
-      "fork": false,
-      "archived": false,
-      "languages_detail": {
-        "CSS": 111334,
-        "HTML": 80062,
-        "JavaScript": 77154
+        "JavaScript": 55918,
+        "HTML": 13408,
+        "CSS": 6075
       }
     },
     {
@@ -62,7 +42,7 @@
       "language": "Python",
       "stargazers_count": 0,
       "forks_count": 0,
-      "updated_at": "2026-06-13T15:27:30Z",
+      "updated_at": "2026-06-14T14:12:10Z",
       "created_at": "2026-05-11T18:23:36Z",
       "topics": [],
       "homepage": null,
@@ -71,6 +51,26 @@
       "languages_detail": {
         "Python": 977780,
         "Shell": 15349
+      }
+    },
+    {
+      "name": "ayaz-portfolio",
+      "full_name": "fozayelibnayaz/ayaz-portfolio",
+      "html_url": "https://github.com/fozayelibnayaz/ayaz-portfolio",
+      "description": null,
+      "language": "CSS",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-06-14T07:56:57Z",
+      "created_at": "2026-06-13T16:49:28Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "CSS": 111334,
+        "HTML": 80062,
+        "JavaScript": 77154
       }
     },
     {
