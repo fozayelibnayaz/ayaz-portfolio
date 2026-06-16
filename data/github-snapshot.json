@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T09:34:27.980Z",
+  "generated_at": "2026-06-16T09:03:57.166Z",
   "profile": {
     "login": "fozayelibnayaz",
     "name": "Fozayel Ibn Ayaz",
@@ -8,12 +8,51 @@
     "blog": "https://www.linkedin.com/in/fozayel-ibn-ayaz/",
     "location": "Bangladesh",
     "bio": "Focused on Full-Stack Web Development and Machine Learning, actively building my career around these two fields.",
-    "public_repos": 31,
+    "public_repos": 29,
     "followers": 2,
     "created_at": "2020-05-29T16:54:20Z",
     "updated_at": "2026-06-13T16:48:56Z"
   },
   "repos": [
+    {
+      "name": "eagle3d-kpi-automation",
+      "full_name": "fozayelibnayaz/eagle3d-kpi-automation",
+      "html_url": "https://github.com/fozayelibnayaz/eagle3d-kpi-automation",
+      "description": null,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-06-16T08:40:33Z",
+      "created_at": "2026-05-11T18:23:36Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "Python": 1060519,
+        "Shell": 15349
+      }
+    },
+    {
+      "name": "ayaz-portfolio",
+      "full_name": "fozayelibnayaz/ayaz-portfolio",
+      "html_url": "https://github.com/fozayelibnayaz/ayaz-portfolio",
+      "description": null,
+      "language": "CSS",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-06-15T09:34:32Z",
+      "created_at": "2026-06-13T16:49:28Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "CSS": 111334,
+        "HTML": 80062,
+        "JavaScript": 77154
+      }
+    },
     {
       "name": "image-variator",
       "full_name": "fozayelibnayaz/image-variator",
@@ -32,45 +71,6 @@
         "JavaScript": 55918,
         "HTML": 13408,
         "CSS": 6075
-      }
-    },
-    {
-      "name": "eagle3d-kpi-automation",
-      "full_name": "fozayelibnayaz/eagle3d-kpi-automation",
-      "html_url": "https://github.com/fozayelibnayaz/eagle3d-kpi-automation",
-      "description": null,
-      "language": "Python",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "updated_at": "2026-06-14T14:12:10Z",
-      "created_at": "2026-05-11T18:23:36Z",
-      "topics": [],
-      "homepage": null,
-      "fork": false,
-      "archived": false,
-      "languages_detail": {
-        "Python": 977780,
-        "Shell": 15349
-      }
-    },
-    {
-      "name": "ayaz-portfolio",
-      "full_name": "fozayelibnayaz/ayaz-portfolio",
-      "html_url": "https://github.com/fozayelibnayaz/ayaz-portfolio",
-      "description": null,
-      "language": "CSS",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "updated_at": "2026-06-14T07:56:57Z",
-      "created_at": "2026-06-13T16:49:28Z",
-      "topics": [],
-      "homepage": null,
-      "fork": false,
-      "archived": false,
-      "languages_detail": {
-        "CSS": 111334,
-        "HTML": 80062,
-        "JavaScript": 77154
       }
     },
     {
@@ -366,22 +366,6 @@
       }
     },
     {
-      "name": "django-coding-test",
-      "full_name": "fozayelibnayaz/django-coding-test",
-      "html_url": "https://github.com/fozayelibnayaz/django-coding-test",
-      "description": null,
-      "language": null,
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "updated_at": "2022-12-07T12:37:15Z",
-      "created_at": "2022-12-07T12:37:15Z",
-      "topics": [],
-      "homepage": null,
-      "fork": false,
-      "archived": false,
-      "languages_detail": {}
-    },
-    {
       "name": "react-project",
       "full_name": "fozayelibnayaz/react-project",
       "html_url": "https://github.com/fozayelibnayaz/react-project",
@@ -400,22 +384,6 @@
         "HTML": 1721,
         "CSS": 930
       }
-    },
-    {
-      "name": "test",
-      "full_name": "fozayelibnayaz/test",
-      "html_url": "https://github.com/fozayelibnayaz/test",
-      "description": null,
-      "language": null,
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "updated_at": "2022-07-12T15:54:43Z",
-      "created_at": "2022-07-12T15:54:43Z",
-      "topics": [],
-      "homepage": null,
-      "fork": false,
-      "archived": false,
-      "languages_detail": {}
     },
     {
       "name": "Titanic-Survival-Prediction",
