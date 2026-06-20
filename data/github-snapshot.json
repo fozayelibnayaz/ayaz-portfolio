@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T08:40:46.862Z",
+  "generated_at": "2026-06-20T07:08:56.616Z",
   "profile": {
     "login": "fozayelibnayaz",
     "name": "Fozayel Ibn Ayaz",
@@ -8,7 +8,7 @@
     "blog": "https://www.linkedin.com/in/fozayel-ibn-ayaz/",
     "location": "Bangladesh",
     "bio": "Focused on Full-Stack Web Development and Machine Learning, actively building my career around these two fields.",
-    "public_repos": 30,
+    "public_repos": 31,
     "followers": 2,
     "created_at": "2020-05-29T16:54:20Z",
     "updated_at": "2026-06-18T04:58:56Z"
@@ -22,15 +22,37 @@
       "language": "Python",
       "stargazers_count": 0,
       "forks_count": 0,
-      "updated_at": "2026-06-19T06:33:25Z",
+      "updated_at": "2026-06-20T03:39:35Z",
       "created_at": "2026-05-11T18:23:36Z",
       "topics": [],
       "homepage": null,
       "fork": false,
       "archived": false,
       "languages_detail": {
-        "Python": 1283797,
+        "Python": 1284601,
         "Shell": 16706
+      }
+    },
+    {
+      "name": "Things-Worth-Buying-Website",
+      "full_name": "fozayelibnayaz/Things-Worth-Buying-Website",
+      "html_url": "https://github.com/fozayelibnayaz/Things-Worth-Buying-Website",
+      "description": null,
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-06-19T15:02:00Z",
+      "created_at": "2026-06-19T15:00:08Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "TypeScript": 461828,
+        "CSS": 20119,
+        "JavaScript": 5723,
+        "Shell": 1472,
+        "Dockerfile": 1274
       }
     },
     {
@@ -41,7 +63,7 @@
       "language": "CSS",
       "stargazers_count": 0,
       "forks_count": 0,
-      "updated_at": "2026-06-18T08:19:55Z",
+      "updated_at": "2026-06-19T08:40:51Z",
       "created_at": "2026-06-13T16:49:28Z",
       "topics": [],
       "homepage": null,
