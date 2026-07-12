@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T05:48:59.524Z",
+  "generated_at": "2026-07-12T06:12:17.974Z",
   "profile": {
     "login": "fozayelibnayaz",
     "name": "Fozayel Ibn Ayaz",
@@ -14,6 +14,26 @@
     "updated_at": "2026-06-26T08:33:56Z"
   },
   "repos": [
+    {
+      "name": "ayaz-portfolio",
+      "full_name": "fozayelibnayaz/ayaz-portfolio",
+      "html_url": "https://github.com/fozayelibnayaz/ayaz-portfolio",
+      "description": null,
+      "language": "CSS",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-07-11T05:49:04Z",
+      "created_at": "2026-06-13T16:49:28Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "CSS": 111334,
+        "HTML": 80062,
+        "JavaScript": 77154
+      }
+    },
     {
       "name": "DevConf2026",
       "full_name": "fozayelibnayaz/DevConf2026",
@@ -31,26 +51,6 @@
       "languages_detail": {
         "HTML": 8588,
         "CSS": 6323
-      }
-    },
-    {
-      "name": "ayaz-portfolio",
-      "full_name": "fozayelibnayaz/ayaz-portfolio",
-      "html_url": "https://github.com/fozayelibnayaz/ayaz-portfolio",
-      "description": null,
-      "language": "CSS",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "updated_at": "2026-07-10T06:55:05Z",
-      "created_at": "2026-06-13T16:49:28Z",
-      "topics": [],
-      "homepage": null,
-      "fork": false,
-      "archived": false,
-      "languages_detail": {
-        "CSS": 111334,
-        "HTML": 80062,
-        "JavaScript": 77154
       }
     },
     {
