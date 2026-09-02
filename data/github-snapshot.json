@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T08:38:32.262Z",
+  "generated_at": "2026-09-02T07:54:26.456Z",
   "profile": {
     "login": "fozayelibnayaz",
     "name": "Fozayel Ibn Ayaz",
@@ -8,12 +8,32 @@
     "blog": "https://www.linkedin.com/in/fozayel-ibn-ayaz/",
     "location": "Bangladesh",
     "bio": "Focused on Full-Stack Web Development and Machine Learning, actively building my career around these two fields.",
-    "public_repos": 37,
+    "public_repos": 38,
     "followers": 1,
     "created_at": "2020-05-29T16:54:20Z",
     "updated_at": "2026-08-29T08:25:10Z"
   },
   "repos": [
+    {
+      "name": "ZENJI-Anime-Streetwear-Australia",
+      "full_name": "fozayelibnayaz/ZENJI-Anime-Streetwear-Australia",
+      "html_url": "https://github.com/fozayelibnayaz/ZENJI-Anime-Streetwear-Australia",
+      "description": null,
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-09-01T18:58:11Z",
+      "created_at": "2026-09-01T17:20:04Z",
+      "topics": [],
+      "homepage": "https://zenji-anime-streetwear-australia.vercel.app",
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "TypeScript": 260253,
+        "CSS": 5810,
+        "JavaScript": 5739
+      }
+    },
     {
       "name": "ayaz-portfolio",
       "full_name": "fozayelibnayaz/ayaz-portfolio",
@@ -22,7 +42,7 @@
       "language": "CSS",
       "stargazers_count": 0,
       "forks_count": 0,
-      "updated_at": "2026-08-31T09:49:29Z",
+      "updated_at": "2026-09-01T08:44:04Z",
       "created_at": "2026-06-13T16:49:28Z",
       "topics": [],
       "homepage": null,
