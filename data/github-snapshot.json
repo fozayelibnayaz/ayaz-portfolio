@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T07:54:00.629Z",
+  "generated_at": "2026-09-07T08:17:28.358Z",
   "profile": {
     "login": "fozayelibnayaz",
     "name": "Fozayel Ibn Ayaz",
@@ -8,12 +8,32 @@
     "blog": "https://www.linkedin.com/in/fozayel-ibn-ayaz/",
     "location": "Bangladesh",
     "bio": "Focused on Full-Stack Web Development and Machine Learning, actively building my career around these two fields.",
-    "public_repos": 38,
+    "public_repos": 39,
     "followers": 1,
     "created_at": "2020-05-29T16:54:20Z",
     "updated_at": "2026-08-29T08:25:10Z"
   },
   "repos": [
+    {
+      "name": "portfolio",
+      "full_name": "fozayelibnayaz/portfolio",
+      "html_url": "https://github.com/fozayelibnayaz/portfolio",
+      "description": null,
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-09-07T07:40:05Z",
+      "created_at": "2026-09-07T06:37:12Z",
+      "topics": [],
+      "homepage": null,
+      "fork": false,
+      "archived": false,
+      "languages_detail": {
+        "JavaScript": 26575,
+        "HTML": 6817,
+        "Shell": 527
+      }
+    },
     {
       "name": "ayaz-portfolio",
       "full_name": "fozayelibnayaz/ayaz-portfolio",
@@ -22,7 +42,7 @@
       "language": "CSS",
       "stargazers_count": 0,
       "forks_count": 0,
-      "updated_at": "2026-09-05T07:39:50Z",
+      "updated_at": "2026-09-06T07:54:05Z",
       "created_at": "2026-06-13T16:49:28Z",
       "topics": [],
       "homepage": null,
